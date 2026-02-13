@@ -1,5 +1,5 @@
 <div>
-  <h1>ANTONIO SANTANA</h1>
+  <img src="/banner.png" />
 </div>
 
 <div>
