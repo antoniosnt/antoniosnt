@@ -2,6 +2,8 @@
   <img src="/banner.png" />
 </div>
 
+<hr />
+
 <div>
   <em>Desenvolvedor Full Stack com experiência em backend e frontend, atuando no desenvolvimento de
 APIs, integrações com serviços externos e aplicações web escaláveis, com foco em qualidade de
