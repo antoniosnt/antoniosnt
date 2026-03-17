@@ -40,7 +40,7 @@
         <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,bun" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,aws,obsidian,vim" />
+        <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,aws,obsidian,vim&perline=5" />
       </td>
     </tr>
   </tbody>
