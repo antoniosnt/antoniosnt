@@ -63,7 +63,7 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [🔗 Projeto Lumina](https://github.com/antoniosnt/Lumina-project) | Agente de IA que gera tabelas e relatórios utilizando LLM | Django, LangChain, MySQL, Next.js |
+| [🔗 Lumina](https://github.com/antoniosnt/Lumina) | Agente de IA que gera tabelas e relatórios utilizando LLM | Django, LangChain, MySQL, Next.js |
 
 ---
 
