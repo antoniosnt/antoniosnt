@@ -28,7 +28,7 @@
     <tr>
       <td align="center"><strong>FRONTEND</strong></td>
       <td align="center"><strong>BACKEND</strong></td>
-      <td align="center"><strong>TECH</strong></td>
+      <td align="center"><strong>TECH && TOOLS</strong></td>
     </tr>
   </thead>
   <tbody>
