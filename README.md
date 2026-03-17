@@ -28,6 +28,7 @@
     <tr>
       <td align="center"><strong>FRONTEND</strong></td>
       <td align="center"><strong>BACKEND</strong></td>
+      <td align="center"><strong>CLOUD</strong></td>
       <td align="center"><strong>TECH & TOOLS</strong></td>
     </tr>
   </thead>
@@ -37,10 +38,13 @@
         <img src="https://skillicons.dev/icons?i=react,next,typescript,mui,css" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,bun" />
+        <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,aws,obsidian,vim&perline=5" />
+        <img src="https://skillicons.dev/icons?i=aws&perline=5" />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vim&perline=5" />
       </td>
     </tr>
   </tbody>
