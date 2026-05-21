@@ -38,7 +38,7 @@
         <img src="https://skillicons.dev/icons?i=react,next,typescript,mui,css" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql" />
+        <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,nodejs" />
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=aws&perline=5" />
